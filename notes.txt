@@ -1,1 +1,3 @@
-Version 2.0 - written on feature-version branch
+Version 1.0 - written on feature-version branch
+version 1.0 - written on feature-version branch
+version 2.0 - written on main branch
